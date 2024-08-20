@@ -9,6 +9,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 2º p
 - **JavaScript**: Estudando para melhorar minhas habilidades em desenvolvimento front-end.
 - **Banco de Dados**: Compreendendo os fundamentos de gerenciamento de dados e SQL.
 
+[![Mutter289 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutter289&theme=radical)](https://github.com/Mutter289/github-readme-stats)
+
 ## Projetos
 Tem novidades a caminho, aguardem! 👀
 

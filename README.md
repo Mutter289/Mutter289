@@ -1,15 +1,18 @@
 ### Olá! Eu sou o Mütter 👋
 
-## Sobre mim
+## 💫 Sobre mim:
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 2º período. Estou começando minha jornada na programação e sempre buscando aprender e melhorar minhas habilidades.
 
-## O que estou aprendendo
+## 💻 Atualmente aprendendo:
 - **Python**: Tenho conhecimento intermediário e estou sempre procurando novos desafios e projetos para aplicar o que aprendi.
 - **HTML & CSS**: Explorando o mundo do desenvolvimento web, criando interfaces simples e funcionais.
 - **JavaScript**: Estudando para melhorar minhas habilidades em desenvolvimento front-end.
 - **Banco de Dados**: Compreendendo os fundamentos de gerenciamento de dados e SQL.
 
-[![Mutter289 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutter289&theme=radical)](https://github.com/Mutter289/github-readme-stats)
+# 📊 GitHub Stats:
+[![Mutter289 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutter289&theme=radical)](https://github.com/Mutter289/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mutter289&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutter289&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Projetos
 Tem novidades a caminho, aguardem! 👀

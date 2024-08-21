@@ -15,7 +15,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 2º p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutter289&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Projetos
-Clone da página de perfil do Instagram:
+Clone da página de perfil do Instagram:<br/>
 ![MyInstagram](https://mutter289.github.io/MyInstagram/)
 
 ## O que estou buscando

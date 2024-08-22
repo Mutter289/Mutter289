@@ -16,7 +16,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 2º p
 
 ## Projetos
 Clone da página de perfil do Instagram:<br/>
-![MyInstagram](https://mutter289.github.io/MyInstagram/)
+[MyInstagram](https://mutter289.github.io/MyInstagram/)
 
 ## O que estou buscando
 Buscando novos aprendizados, boas amizades e meu objetivo atual é aprender REACT!

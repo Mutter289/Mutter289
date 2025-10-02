@@ -1,7 +1,9 @@
 # Olá! Eu sou o Mütter 👋
 
-## 💫 Sobre mim:
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 4º período. Estou começando minha jornada na programação e sempre buscando aprender e melhorar minhas habilidades.
+
+### Contato
+- **Email**: muccier289@gmail.com
 
 ## 🚀 Tech Stack
 
@@ -28,12 +30,22 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 4º p
 ![Cairo](https://img.shields.io/badge/Cairo-101010?style=for-the-badge&logo=data:image/svg+xml;base64,…)
 
 # 📊 GitHub Stats:
-[![Mutter289 GitHub stats](https://github-readme-stats.vercel.app/api?username=Mutter289&theme=radical)](https://github.com/Mutter289/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mutter289&theme=radical&hide_border=false)<br/>
+![Mutter289 GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mutter289&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mutter289&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Projetos
-## Essa parte está em atualização, em breve serão adicionados mais 2 projetos...
+### Banese Card
+
+**Descrição:**  
+Sistema de gerenciamento de campanhas para gestores.
+
+**Link do projeto:** [Repositório Banese Card](https://github.com/Mutter289/BaneseCard)<br/>
+**Link direto:** [Site Banese Card](https://mutter289.github.io/BaneseCard/) (Usar ID Gestor: Gestor 1 e Senha: senha1)
+
+**Funcionalidades principais:**  
+- Criação, edição e monitoramento de campanhas.
+- Filtro de pesquisa.
+- Interface fácil de usar.
 
 ## O que estou buscando
 Buscando a primeira experiência profissional.
